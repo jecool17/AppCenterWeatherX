@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\WeatherAppX",
+    "\\WeatherAppX.Android\\Properties",
+    "\\WeatherAppX.Android\\Resources",
+    "\\WeatherAppX\\obj",
+    "\\WeatherAppX\\obj\\Debug",
+    "\\WeatherAppX\\obj\\Debug\\netstandard2.0",
+    "\\WeatherAppX\\obj\\Release"
+  ],
+  "SelectedNode": "\\WeatherAppX\\obj\\Debug\\netstandard2.0\\XamlC.stamp",
+  "PreviewInSolutionExplorer": false
+}
